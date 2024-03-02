@@ -37,13 +37,14 @@
 
 
 <!-- Dark Mode -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedullah143&show_icons=true&locale=en&layout=compact&theme=dark" alt="saeedullah143" /></p>
+
 
 <!-- Overall Stats -->
 
 <!-- Streak Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedullah143&theme=dark" alt="saeedullah143" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedullah143&show_icons=true&locale=en&theme=dark" alt="saeedullah143" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedullah143&show_icons=true&locale=en&layout=compact&theme=dark" alt="saeedullah143" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedullah143&show_icons=true&locale=en&theme=dark" alt="saeedullah143" /></p>
